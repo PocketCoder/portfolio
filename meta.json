@@ -1,0 +1,142 @@
+{
+    "photos": {
+        "C5CC2FA7-7432-4767-B4CC-8A4E0C33A3B9.JPG": {
+            "filename": "C5CC2FA7-7432-4767-B4CC-8A4E0C33A3B9.JPG",
+            "name": "Camping in the mountains",
+            "year": "2019",
+            "location": "Eibsee, Germany",
+            "desc": "My friend heats water for our morning coffee, dwarfed by the mountains of Eibsee, Germany.",
+            "camera": "Chinon CM-4S",
+            "film": "35mm / Kodak ColorPlus 200"
+        },
+        "building.JPG": {
+            "filename": "building.JPG",
+            "name": "Building",
+            "year": "2019",
+            "location": "Stockholm, Sweden",
+            "desc": "",
+            "camera": "Chinon CM-4S",
+            "film": "35mm / Kodak ColorPlus 200"
+        },
+        "mum.JPG": {
+            "filename": "mum.JPG",
+            "name": "Mum tidying",
+            "year": "2019",
+            "location": "Stockholm, Sweden",
+            "desc": "",
+            "camera": "Chinon CM-4S",
+            "film": "35mm / Kodak ColorPlus 200"
+        },
+        "608CB664-590C-4382-9B76-6B17914AD144.JPG": {
+            "filename": "608CB664-590C-4382-9B76-6B17914AD144.JPG",
+            "name": "Welcome to Skansen",
+            "year": "2019",
+            "location": "Stockholm, Sweden",
+            "desc": "Entrance to the Skansen park.",
+            "camera": "Chinon CM-4S",
+            "film": "35mm / Kodak ColorPlus 200"
+        },
+        "cablecar.JPG": {
+            "filename": "cablecar.JPG",
+            "name": "Ascent into the clouds.",
+            "year": "2019",
+            "location": "Eibsee, Germany",
+            "desc": "",
+            "camera": "Chinon CM-4S",
+            "film": "35mm / Kodak ColorPlus 200"
+        },
+        "12A9654D-3128-47ED-8531-FB0CC5126A1C.JPG": {
+            "filename": "12A9654D-3128-47ED-8531-FB0CC5126A1C.JPG",
+            "name": "Sister stood in hut",
+            "year": "2019",
+            "location": "Stockholm, Sweden",
+            "desc": "Taken in Skansen park",
+            "camera": "Chinon CM-4S",
+            "film": "35mm / Kodak ColorPlus 200"
+        }
+    },
+    "videos": {
+        "We Are Your Children.mp4": {
+            "filename": "We Are Your Children.mp4",
+            "name": "We Are Your Children",
+            "year": "2019",
+            "desc": "An experimental drama exploring Electric Shock Aversion Therapy, used by the NHS to cure homosexuality in the 1950s.",
+            "role": "Producer, Director, Writer",
+            "comments": ""
+        },
+        "Fagot.mp4": {
+            "filename": "Fagot.mp4",
+            "name": "fagot",
+            "year": "2019",
+            "desc": "An experimental drama paralleling a teenager's coming out journey, with the UKs.",
+            "role": "Producer, Director, Writer",
+            "comments": ""
+        },
+        "Jake Williams' Showreel 2020 (Uni Edit - Unfinished).mp4": {
+            "filename": "Jake Williams' Showreel 2020 (Uni Edit - Unfinished).mp4",
+            "name": "Director's Showreel 2020 (University Edit - Unfinished)",
+            "year": "2020",
+            "desc": "My 2020 director's showreel, incomplete as I'm waiting for the completion of another project.",
+            "role": "",
+            "comments": ""
+        },
+        "GROUP 9 REBEL FILM- UNTITLED.mp4": {
+            "filename": "GROUP 9 REBEL FILM- UNTITLED.mp4",
+            "name": "Small Pond",
+            "year": "2018",
+            "desc": "An experimental film exploring mental health issues and drug abuse.",
+            "role": "Director",
+            "comments": ""
+        },
+        "Website Reel.mp4": {
+            "filename": "Website Reel.mp4",
+            "name": "Website Reel",
+            "year": "2020",
+            "desc": "A condensed version of my showreel for my website background.",
+            "role": "",
+            "comments": "Doesn't have titles or sound."
+        }
+    },
+    "scripts": {
+        "The Embassy of Cambodia - Jake Williams.pdf": {
+            "filename": "The Embassy of Cambodia - Jake Williams.pdf",
+            "name": "The Embassy of Cambodia",
+            "year": "2019",
+            "desc": "Adapted from a short story of the same title, this script follows Fatou as she fights for her freedom from the family she serves.",
+            "writers": "Jake Williams",
+            "comments": "Submitted for a module in final year of university"
+        },
+        "fagot.pdf": {
+            "filename": "fagot.pdf",
+            "name": "fagot",
+            "year": "2018",
+            "desc": "An experimental drama paralleling a teenager's coming out journey, with the UKs.",
+            "writers": "Jake Williams",
+            "comments": "This script was filmed for a module at university."
+        },
+        "We Are You Children.pdf": {
+            "filename": "We Are You Children.pdf",
+            "name": "We Are Your Children",
+            "year": "2019",
+            "desc": "An experimental drama exploring Electric Shock Aversion Therapy, used by the NHS to cure homosexuality in the 1950s.",
+            "writers": "Jake Williams",
+            "comments": "This script was filmed for a module at university."
+        },
+        "A Wife's Last Goodbye.pdf": {
+            "filename": "A Wife's Last Goodbye.pdf",
+            "name": "A Wife's Last Goodbye",
+            "year": "2020",
+            "desc": "A wife must say goodbye to her dying partner over video call.",
+            "writers": "Jake Williams",
+            "comments": "Submitted to BBC Writersroom. Reached the second sift."
+        },
+        "Dead in Yellow.pdf": {
+            "filename": "Dead in Yellow.pdf",
+            "name": "Dead in Yellow",
+            "year": "2020",
+            "desc": "A coming-of-age drama following a teenage boy's abrupt journey out of the closet, and his struggle to accept it.",
+            "writers": "Jake Williams",
+            "comments": "Story by Jake Williams & Brooke Angus"
+        }
+    }
+}
