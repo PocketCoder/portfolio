@@ -1,10 +1,10 @@
 $.getJSON("meta.json", function(meta) {
     for (i in meta) {
         for (a in meta[i]) {
-            const img = `${i}/${meta[i][a]["filename"]}`;
+            const file = `${i}/${meta[i][a]["filename"]}`;
             if (i == "photos") {
                 $("#photos .inner").append(`
-                <div class="photo" style="background-image: url(${img})">
+                <div class="photo" style="background-image: url(${file})">
                     <div class="desc">
                         <h4>${meta[i][a]["name"]}</h4>
                         <h6>${meta[i][a]["year"]}</h6>
@@ -14,11 +14,10 @@ $.getJSON("meta.json", function(meta) {
                 </div>
                 `);
             } else if (i == "videos") {
-                const vid = `${i}/${meta[i][a]["filename"]}`;
                 $("#videos .inner").append(`
                 <div class="video">
                     <video id="video" preload playsinline controls>
-                        <source src="${vid}" type="video/mp4"></source>
+                        <source src="${file}" type="video/mp4"></source>
                     </video>
                     <div class="video-desc">
                         <h4>${meta[i][a]["name"]}</h4>
@@ -27,8 +26,20 @@ $.getJSON("meta.json", function(meta) {
                     </div>
                 </div>
                 `);
-            } else {
-    
+            } else if (i == "scripts") {
+                $("#photos .inner").append(`
+                <a href="${file}" target="_blank" class="no-line">
+                    <div class="box">
+                        <h4>${meta[i][a]["name"]}</h4>
+                        <h6>written by ${meta[i][a]["writers"]}.</h6>
+                        <span>${meta[i][a]["year"]}</span>
+                        <p>&nbsp;</p>
+                        <p>${meta[i][a]["desc"]}</p>
+                        <br />
+                        <p><i>${meta[i][a]["comments"]}</i></p>
+                    </div>
+                </a>
+                `);
             }
         }
     }
