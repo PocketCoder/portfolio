@@ -7,6 +7,8 @@ Run the setup script with python3.
 ## TODO
 ### ASAP
 1. Store video file type in JSON (for auto-generated `video` tag).
+2. Sort items by year, then alphabetical.
+3. Allow images to be clickable (into a gallery).
 ### Any time
 1. Allow user to input their own directories.
 2. Allow user to add/remove the items keys.
