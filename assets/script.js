@@ -27,7 +27,7 @@ $.getJSON("meta.json", function(meta) {
                 </div>
                 `);
             } else if (i == "scripts") {
-                $("#photos .inner").append(`
+                $("#scripts .inner").append(`
                 <a href="${file}" target="_blank" class="no-line">
                     <div class="box">
                         <h4>${meta[i][a]["name"]}</h4>
