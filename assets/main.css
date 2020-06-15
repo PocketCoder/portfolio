@@ -308,14 +308,25 @@ main {
 #scripts {
     display: flex;
     display: -webkit-flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
 
     min-height: 100vh;
     width: 100vw;
 }
+
+#scripts .inner {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    width: 100%;
+}
+
 
 .box {
     flex-direction: column;
